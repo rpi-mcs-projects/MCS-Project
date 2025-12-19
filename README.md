@@ -1,6 +1,6 @@
 # MCS-Project
 ## Fall 2025
-## Vedran Beganovic
+## SCR: Combined Sensing & Communication
 
 In this repo is the MCS Project.
 
